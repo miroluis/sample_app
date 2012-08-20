@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.7' 
+gem 'bootstrap-sass', '2.0.0'
 #'3.2.7rc1' #é a realse candidate para ser aceite pelo heroku 
 
 # Bundle edge Rails instead:
